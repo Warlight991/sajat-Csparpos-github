@@ -1,0 +1,7 @@
+C:\Users\zsolt\source\repos\raketa\Gyakolás2\bin\Debug\Gyakolás2.exe.config
+C:\Users\zsolt\source\repos\raketa\Gyakolás2\bin\Debug\Gyakolás2.exe
+C:\Users\zsolt\source\repos\raketa\Gyakolás2\bin\Debug\Gyakolás2.pdb
+C:\Users\zsolt\source\repos\raketa\Gyakolás2\obj\Debug\Gyakolás2.csproj.AssemblyReference.cache
+C:\Users\zsolt\source\repos\raketa\Gyakolás2\obj\Debug\Gyakolás2.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\source\repos\raketa\Gyakolás2\obj\Debug\Gyakolás2.exe
+C:\Users\zsolt\source\repos\raketa\Gyakolás2\obj\Debug\Gyakolás2.pdb
